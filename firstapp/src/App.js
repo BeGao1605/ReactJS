@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Car from './Car';
+// import Car from './Car';
 import Xe from './Xe';
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
       >
         Learn React
       </a>
-      <Car />
-      <Xe />
+      <Xe color='red' value='Tôi là xe đỏ' />
+      <Xe color='blue' value='Tôi là xe xanh'/>
     </header>
   </div>
 
