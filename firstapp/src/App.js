@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Car from './Car';
+import Xe from './Xe';
 
 function App() {
   const html = <div className="App">
@@ -15,6 +17,8 @@ function App() {
       >
         Learn React
       </a>
+      <Car />
+      <Xe />
     </header>
   </div>
 
