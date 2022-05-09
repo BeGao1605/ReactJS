@@ -18,8 +18,6 @@ function App() {
         Learn React
       </a>
       <Xe color='red' value='Tôi là xe đỏ' />
-      <Xe color='blue' value='Tôi là xe xanh'/>
-      <Xe color='orange' value='Tôi là xe cam' />
     </header>
   </div>
 
